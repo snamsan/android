@@ -1,0 +1,9 @@
+## commands
+git --version
+git status
+git add.
+git config --global user.email "email"
+git config --global user.name "name"
+git show commit id
+git remote add origin 
+git push -u origin main
