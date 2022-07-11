@@ -1,2 +1,2 @@
 # android
-sample readme file
+showing sample readme file
